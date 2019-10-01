@@ -6,7 +6,7 @@ floor = gets.to_i
 
 	while i <= floor
 
-puts "#"
+puts "#" * i 
 
 	i += 1 
 
